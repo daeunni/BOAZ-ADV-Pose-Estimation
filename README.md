@@ -4,7 +4,7 @@
 -----
 
 1. Pose Estimation model select 
-> Frank mocap (3D angle print)   
+> **Frank mocap (3D angle print)**   
 
 2. Ground truth select
 
